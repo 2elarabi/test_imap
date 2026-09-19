@@ -4,7 +4,7 @@ import time
 def get_code(EMAIL_ACCOUNT, EMAIL_PASSWORD, IMAP_SERVER):import imaplib
 import time
 
-IMAP_SERVER = "secureimap.t-online.de"
+IMAP_SERVER = "imap.comcast.net"
 IMAP_PORT = 993
 
 def test_account(email, password):
